@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FoldTextView">
+        <attr name="fold_text_showMaxLine" format="integer" />
+        <attr name="fold_text_tipGravity" format="integer" />
+        <attr name="fold_text_tipColor" format="reference|color" />
+        <attr name="fold_text_foldText" format="string" />
+        <attr name="fold_text_expandText" format="string" />
+        <attr name="fold_text_showTipAfterExpand" format="boolean" />
+        <attr name="fold_text_isSetParentClick" format="boolean" />
+        <attr name="fold_text_foldWithIcon" format="boolean" />
+        <attr name="fold_text_iconLineWidth" format="dimension" />
+        <attr name="fold_text_iconSize" format="dimension" />
+        <attr name="fold_text_iconColor" format="color|reference" />
+    </declare-styleable>
+
+</resources>

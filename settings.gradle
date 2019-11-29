@@ -1,0 +1,2 @@
+include ':app', ':foldtext'
+rootProject.name='FoldTextView'
